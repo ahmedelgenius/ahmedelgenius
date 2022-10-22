@@ -21,13 +21,13 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Backend (Spring/NodeJS)
+- 🔭 &nbsp; I’m currently learning Backend (NodeJS)
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; I’m fresh grad from SJSU in CA & ASU in Egypt
+- 🎓 &nbsp; I study at the Faculty of Arts in Egypt
 - 💼 &nbsp; Backend developer and front-end web developer.
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
-- How to reach me: __Ahmed.abdelfaheem@gmail.com__
+- How to reach me: __ahmedhany5321@gmail.com__
 &nbsp;
 <br>
 
